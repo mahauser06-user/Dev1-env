@@ -1,1 +1,2 @@
-Another test file is created
+Another test file is created.
+This is a new file !!
